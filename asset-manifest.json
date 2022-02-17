@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/what-a-rt-style/static/js/main.14701c75.js",
+    "main.js": "/what-a-rt-style/static/js/main.e8446d4d.js",
     "static/media/dali.svg": "/what-a-rt-style/static/media/dali.8541bb186e6ab116ab949ed0a7c91d5f.svg",
     "index.html": "/what-a-rt-style/index.html",
-    "main.14701c75.js.map": "/what-a-rt-style/static/js/main.14701c75.js.map"
+    "main.e8446d4d.js.map": "/what-a-rt-style/static/js/main.e8446d4d.js.map"
   },
   "entrypoints": [
-    "static/js/main.14701c75.js"
+    "static/js/main.e8446d4d.js"
   ]
 }
