@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import * as tmImage from "@teachablemachine/image";
 import { Results } from "./components/Results";
-
 import {
   Header,
   ImageWrapper,
